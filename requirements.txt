@@ -1,0 +1,3 @@
+fastapi==0.90.0
+hyperdb-python==0.1.3
+uvicorn==0.20.0
