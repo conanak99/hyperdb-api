@@ -14,8 +14,8 @@ class DB_Input(BaseModel):
     key: str
     metadata: str
 
-    class Config:
-        frozen = True
+    # class Config:
+    #     frozen = True
 
 
 class DB(BaseModel):
